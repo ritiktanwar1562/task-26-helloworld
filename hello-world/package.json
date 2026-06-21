@@ -2,6 +2,7 @@
   "name": "hello-world",
   "private": true,
   "version": "0.0.0",
+  "description": "Simple React Hello World application created for assignment.", 
   "type": "module",
   "scripts": {
     "dev": "vite",
